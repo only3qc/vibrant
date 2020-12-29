@@ -1,0 +1,16 @@
+.theme--dark.v-navigation-drawer {
+   background-color: #283842;
+}
+.theme--dark.v-card {
+   background-color: #283842;
+   color: #fff;
+}
+.theme--dark.v-sheet {
+   background-color: #283842;
+   border-color: #283842;
+   color: #fff;
+}
+.theme--dark.v-application {
+   background: #161D21;
+   color: #fff;
+}
